@@ -8,7 +8,7 @@ I want to use this repository as a way to show my enthusiasm for all kinds of Au
 
 I am working as a Principal Product Marketing Manager@Citrix/Cloud Software Group Austria GmbH in Vienna, Austria.
 
-I have more than 20 years of experience in End-User Computing and working with Microsoft and Citrix Technologies.
+I have almost 30 years of experience in End-User Computing and working with Microsoft and Citrix Technologies.
 As PPMM, my focus is on all kinds of Automation and HyperScalers (especially Microsoft Azure) as well as Microsoft AzureStack HCI.
 I am also responsible for the Citrix TechZone in the Citrix Community together with 2 other colleagues.
 
